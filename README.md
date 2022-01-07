@@ -1,10 +1,10 @@
 # Employee_Management_System
 A Employee Management System made using HTML, CSS, Bootstrap, PHP, and MySQL
 
-Setup
+Setup : 
 Xampp is needed to run .php files on local server along with phpmyadmin for the database
 
-Login
+Login : 
 Username and Emails can be used from the database to Login
 
 There are 3 different interfaces 
